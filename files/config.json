@@ -11,7 +11,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"0283069e-e8c4-4444-8888-93cd60cb716e",
+                        "id":"4bc0496e-ef85-4b04-a99f-13dc70b92a31",
                         "flow":"xtls-rprx-vision"
                     }
                 ],
@@ -49,7 +49,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"0283069e-e8c4-4444-8888-93cd60cb716e"
+                        "id":"4bc0496e-ef85-4b04-a99f-13dc70b92a31"
                     }
                 ],
                 "decryption":"none"
@@ -66,7 +66,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"0283069e-e8c4-4444-8888-93cd60cb716e",
+                        "id":"4bc0496e-ef85-4b04-a99f-13dc70b92a31",
                         "level":0
                     }
                 ],
@@ -80,7 +80,7 @@
                 }
             },
             "sniffing":{
-                "disable":false,
+                "disable":true,
                 "destOverride":[
                     "http",
                     "tls",
@@ -96,7 +96,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"0283069e-e8c4-4444-8888-93cd60cb716e",
+                        "id":"4bc0496e-ef85-4b04-a99f-13dc70b92a31",
                         "alterId":0
                     }
                 ]
@@ -108,7 +108,7 @@
                 }
             },
             "sniffing":{
-                "disable":false,
+                "disable":true,
                 "destOverride":[
                     "http",
                     "tls",
@@ -124,7 +124,7 @@
             "settings":{
                 "clients":[
                     {
-                        "password":"0283069e-e8c4-4444-8888-93cd60cb716e"
+                        "password":"4bc0496e-ef85-4b04-a99f-13dc70b92a31"
                     }
                 ]
             },
@@ -136,7 +136,7 @@
                 }
             },
             "sniffing":{
-                "disable":false,
+                "disable":true,
                 "destOverride":[
                     "http",
                     "tls",
@@ -153,7 +153,7 @@
                 "clients":[
                     {
                         "method":"chacha20-ietf-poly1305",
-                        "password":"0283069e-e8c4-4444-8888-93cd60cb716e"
+                        "password":"4bc0496e-ef85-4b04-a99f-13dc70b92a31"
                     }
                 ],
                 "decryption":"none"
@@ -165,7 +165,7 @@
                 }
             },
             "sniffing":{
-                "disable":false,
+                "disable":true,
                 "destOverride":[
                     "http",
                     "tls",
